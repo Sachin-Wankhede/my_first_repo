@@ -1,0 +1,4 @@
+dir              - list all folders and files in the current directory (Windows)
+cd               - change directory
+cd ..            - go to the parent (previous) directory
+mkdir <name>     - create a new directory (folder)
