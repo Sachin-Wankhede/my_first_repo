@@ -1,0 +1,29 @@
+git config --global user.name "Sachin-Wankhede"
+
+git config user.name
+
+git config --global user.email "sachinwankhede987@gmail.com"
+
+git config user.email
+
+git clone <link to repo>
+
+git add <file>
+
+git commit -m <msg>
+
+git remote add name https://url.git
+
+git remote rename <old> <new>
+
+git remote remove <name>
+
+git push -u origin main/master
+
+git branch -M main
+
+git fetch
+
+git fetch <remote> <branch>
+
+git fetch origin <branch>
